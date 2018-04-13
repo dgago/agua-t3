@@ -1,0 +1,18 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MYSQL_HOST": "192.168.174.135",
+    "MYSQL_PORT": "3306",
+    "MYSQL_USER": "root",
+    "MYSQL_PWD": "abc123",
+    "MYSQL_DB": "test"
+  },
+  "development": {
+    "PORT": 3000,
+    "MYSQL_HOST": "192.168.174.135",
+    "MYSQL_PORT": "3306",
+    "MYSQL_USER": "root",
+    "MYSQL_PWD": "abc123",
+    "MYSQL_DB": "test"
+  }
+}

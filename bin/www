@@ -1,6 +1,11 @@
 #!/usr/bin/env node
 
 /**
+ * Configuration.
+ */
+require("../config/config");
+
+/**
  * Module dependencies.
  */
 
